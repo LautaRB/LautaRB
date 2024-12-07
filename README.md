@@ -7,4 +7,4 @@
 ### ·🧑🏻‍🎓 Actualmente estoy terminando la carrera de Informática Aplicada en el UTN INSPT.
 
 ## ⚙️Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,npm,express,bootstrap,react,astro,postman,html,css,java,spring,mysql,mongodb,git,github,vscode,c,py&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,npm,express,bootstrap,react,astro,postman,html,css,java,spring,mysql,mongodb,git,github,vscode,c,py&perline=10)](https://skillicons.dev)

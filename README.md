@@ -27,7 +27,7 @@
 ### ℹ Más info
 
 <div align="center"> 
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:lautanba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
   <a href="https://lautaro-rodriguez-brown.netlify.app/" target="_blank">

@@ -30,7 +30,7 @@
   <a href="mailto:lautanba@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://lautaro-rodriguez-brown.netlify.app/" target="_blank">
+  <a href="https://lautarorb-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Mi_Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
   </a>
 </div>

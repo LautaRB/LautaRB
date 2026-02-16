@@ -6,7 +6,7 @@
 
 ¡Hola! Soy un **Desarrollador de Software** de Argentina. Me caracterizo por mi curiosidad y compromiso constante con el aprendizaje de nuevas tecnologías.
 
-- 🎓 Actualmente finalizando la carrera de **Informática Aplicada** en la **UTN INSPT**.
+- 🎓 Egresado de la carrera **Informática Aplicada** en el **INSPT**
 - 👨🏻‍💻 También me desenvuelvo como soporte técnico desarrollando software, administrando el mantenimiento de los equipos y redes.
 - 🔭 Estoy trabajando en proyectos personales para mejorar mis habilidades full-stack.
 

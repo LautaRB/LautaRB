@@ -13,4 +13,4 @@ Desarrollador enfocado en crear soluciones eficientes. Me gusta involucrarme en 
 - Administrando infraestructura TI y optimizando redes corporativas.
 
 ### 🔗 Contacto
-[Mi Portfolio](https://lautarorb-portfolio.netlify.app/) • [lautanba@gmail.com](mailto:lautanba@gmail.com)
+[Mi Portfolio]() • [lautanba@gmail.com](mailto:lautanba@gmail.com)

@@ -4,9 +4,9 @@
 Desarrollador enfocado en crear soluciones eficientes. Me gusta involucrarme en todo el ciclo, desde el código de la aplicación hasta la arquitectura y las redes que la soportan.
 
 ### 💻 Stack Principal
-- **Frontend:** React, Astro, JavaScript, TypeScript, Tailwind
-- **Backend:** Node.js, Express, Spring, Java, Python, Django
-- **Infra & DB:** MySQL, MongoDB, Git, Networking
+- **Frontend:** TypeScript, React, Astro, Tailwind
+- **Backend:** C, Java, Spring, JavaScript, NodeJs, Express, Python, Django
+- **Infra & DB:** MySQL, MongoDB, Git, Github, Docker, Android Studio
 
 ### 🚀 Actualmente
 - Retomando el desarrollo de proyectos Full-Stack.

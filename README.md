@@ -9,7 +9,7 @@ Desarrollador enfocado en crear soluciones eficientes. Me gusta involucrarme en 
 - **Infra & DB:** MySQL, MongoDB, Git, Github, Docker, Android Studio
 
 ### 🚀 Actualmente
-- Retomando el desarrollo de proyectos Full-Stack.
+- Desarrollando aplicaciones web.
 - Administrando infraestructura TI y optimizando redes corporativas.
 
 ### 🔗 Contacto
